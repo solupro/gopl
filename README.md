@@ -1,2 +1,1 @@
-# gopl
-gopl exericese
+# gopl-exericses
